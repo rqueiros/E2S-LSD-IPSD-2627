@@ -7,4 +7,4 @@
   const priceWithVAT = productPrice * (1 + iva);    // 35 * 1.23 = 43.05
   const finalValue = priceWithVAT * (1 - discount); // 43.05 * 0.90 = 38.745
  
-  console.log(finalValue);
+  console.log(finalValue.toFixed(2)); 

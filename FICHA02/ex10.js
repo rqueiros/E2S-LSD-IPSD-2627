@@ -1,6 +1,6 @@
 // Ex 10 - Classificação de notas
  
-  let grade = 8.5;
+  let grade = -5;
  
   if (grade >= 10 && grade <= 20) {        // [10,20]
     console.log("Nota positiva");

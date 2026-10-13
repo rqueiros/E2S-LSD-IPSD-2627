@@ -3,6 +3,6 @@
   const base = 3;                 // cm
   const height = 5;               // cm
   const area = (base * height) / 2;
-  console.log(area + " cm²");   // 7.5 cm²
+  console.log(area + " cm²"); 
 
 
